@@ -6,7 +6,7 @@
 
 > A complete tourism website for Alexandria, Egypt - The Pearl of the Mediterranean
 
-🔴 **Live Demo:** [http://alexandria-guide.infinityfree.me](https://alexandria-guide.infinityfree.me)
+🔴 **Live Demo:** [https://alexandria-guide.infinityfree.me](https://alexandria-guide.infinityfree.me)
 
 ---
 
