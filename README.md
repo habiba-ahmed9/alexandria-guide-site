@@ -15,11 +15,6 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Database Setup](#database-setup)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contact](#contact)
-
 ---
 
 ## About The Project
